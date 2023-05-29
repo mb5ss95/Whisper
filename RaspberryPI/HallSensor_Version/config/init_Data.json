@@ -1,0 +1,13 @@
+{
+	"Story" : "brother",
+	"Writter" : "moon",
+	"UUID" : "94f39d29-7d6d-437d-973b-fba39e49d4ee",
+	"AudioPath" : "./Story/Audio/brother/",
+	"PlayList" : ["page1.mp3", "page2.mp3", "page3.mp3", "page4.mp3"],
+	"EffectList" : {
+		"page1" : ["page1_effect1.mp3"],
+		"page2" : ["page2_effect1.mp3"],
+		"page3" : ["page3_effect1.mp3"],
+		"page4" : []
+	}
+}
