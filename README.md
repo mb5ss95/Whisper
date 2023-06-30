@@ -25,6 +25,7 @@
 
 ## 결 과(Output)
 <img width="307" alt="Whisper" src="https://github.com/mb5ss95/Whisper/assets/60500325/95d616ce-afdc-4f88-bf2f-be167ac42334">
+<img width="307" alt="Whisper" src="https://github.com/mb5ss95/Whisper/assets/60500325/51982968-ce09-4a5c-991b-b13a6a017ee5">
 <img width="307" alt="Whisper" src="https://github.com/mb5ss95/Whisper/blob/main/Android/wwwhisper/result/Screenshot_20230701_001146.png">
 <img width="307" alt="Whisper" src="https://github.com/mb5ss95/Whisper/blob/main/Android/wwwhisper/result/Screenshot_20230701_001223.png">
 <img width="307" alt="Whisper" src="https://github.com/mb5ss95/Whisper/blob/main/Android/wwwhisper/result/Screenshot_20230701_001314.png">
